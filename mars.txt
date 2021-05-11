@@ -1,3 +1,4 @@
 hi moon cold dry me duele
+<<<<<<< HEAD
 two moons may be a problem for wolfman
-there's a man on the other side of this thing.
+there's a man on the other side of this thing 
